@@ -1,1 +1,22 @@
 
+# Command line
+
+12. Create directory d4 and doc4.txt inside it in “redi” folder.
+13. Search for all files ending with “*.txt”.
+14. Delete the whole “redi” folder.
+
+#Github
+
+Create repository on GitHub.
+Clone it to your computer.
+Check git status.
+Create a file with some content named “lesson5.txt”.
+Stage the added file. (check git status first)
+Commit the file.
+Push the changes.
+$ git remote show origin
+
+Go to GitHub and check the file has been pushed.
+Create a new file directly from GitHub.
+Pull the changes to your computer.
+
